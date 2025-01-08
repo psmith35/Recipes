@@ -1,3 +1,5 @@
+# Recipes
+
 ### Steps to Run the App
 1. Let the app load the list of recipes.
 2. Scroll through the app and select a recipe to either open a website or video (depending on which is available).
